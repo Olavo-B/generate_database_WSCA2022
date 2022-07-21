@@ -1,0 +1,7 @@
+Seed 1656949570
+LIMIT 7
+before: 
+4(54)
+Number of not routing: 798 (79.80%)
+after: 
+4(1)

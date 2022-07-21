@@ -1,0 +1,11 @@
+Seed 1656949570
+ARCH 0|F_ID 1|LIMIT 6
+139/546
+3.568
+before: 
+8(41)
+(13x11)
+Number of not routing: 1000 (100.00%)
+after: 
+8(20)
+(13x11)

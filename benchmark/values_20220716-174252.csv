@@ -1,0 +1,22 @@
+name,A/V,mean_degree,best_square,best
+Cholesterol_Regulatory_Pathway,6,34/43,,(6x6) after: 
+Apoptosis_network,8,41/73,,(7x7) after: 
+Treatment_of_Castration-Resistant_Prostate_Ca,15,43/65,,(7x7) after: 
+Guard_Cell_Abscisic_Acid_Signaling,11,44/78,,(7x7) after: 
+B_bronchiseptica_and_T_retortaeformis_coinfectio,11,53/135,,(8x8) after: 
+Differentiation_of_T_lymphocytes,8,50/97,,(8x8) after: 
+MAPK_Cancer_Cell_Fate_Network,11,55/103,,(8x8) after: 
+PC12_Cell_Differentiation,20,64/109,,(8x8) after: 
+T-LGL_Survival_Network_2011,53,60/195,,(8x8) after: 
+Bortezomib_Responses_in_U266_Human_Myelo,12,67/130,,(9x9) after: 
+HGF_Signaling_in_Keratinocytes,12,68/103,,(9x9) after: 
+Glucose_Repression_Signaling_2009,12,73/106,,(9x9) after: 
+Yeast_Apoptosis,16,73/112,,(9x9) after: 
+IGVH_mutations_in_chronic_lymphocytic_leukemia,21,91/150,,(10x10) after: 
+Lymphopoiesis_Regulatory_Network,11,81/158,,(9x9) after: 
+IL-6_Signalling,16,87/149,,(10x10) after: 
+EGFR_&_ErbB_Signaling,22,104/227,,(11x11) after: 
+signal_transduction_in_fibroblasts,35,139/546,,(12x12) after: 
+CD4_T_cell_signaling,15,188/346,,(14x14) after: 
+Erb-reception,46,247/1092,,(16x16) after: 
+macrophave_activation,83,321/521,,(18x18) after: 

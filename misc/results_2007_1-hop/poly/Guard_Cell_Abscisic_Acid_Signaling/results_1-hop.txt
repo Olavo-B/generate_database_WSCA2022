@@ -1,0 +1,13 @@
+Seed 1656949570
+ARCH 1|F_ID 1|LIMIT 3
+11
+44/78
+1.773
+2
+before: 
+2(555)
+(6x8)
+Number of not routing: 440 (44.00%)
+after: 
+2(422)
+(6x8)
